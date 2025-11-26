@@ -1,45 +1,45 @@
-# Week XX: [主题]
+# Week XX: [Topic]
 
-> 📅 日期：YYYY-MM-DD ~ YYYY-MM-DD
-> 
-> ⏱️ 本周投入：约 XX 小时
-
----
-
-## ✅ 完成
-
-- 
-
-## 📚 学到了什么
-
-### 概念/知识点
-
-
-### 代码/工具
-
-
-## ❌ 没完成 & 原因
-
-
-## 🚧 遇到的问题
-
-
-## 💡 下周计划
-
-- [ ] 
-- [ ] 
-- [ ] 
-
-## 🔗 有价值的资源
-
-- 
+> 📅 Date: YYYY-MM-DD ~ YYYY-MM-DD
+>
+> ⏱️ This Week's Time: About XX hours
 
 ---
 
-## 自我评估
+## ✅ Completed
 
-| 项目 | 评分 (1-5) |
-|------|------------|
-| 时间投入 | ⭐⭐⭐ |
-| 理解深度 | ⭐⭐⭐ |
-| 代码实践 | ⭐⭐⭐ |
+-
+
+## 📚 What I Learned
+
+### Concepts/Knowledge Points
+
+
+### Code/Tools
+
+
+## ❌ Not Completed & Reasons
+
+
+## 🚧 Problems Encountered
+
+
+## 💡 Next Week's Plan
+
+- [ ]
+- [ ]
+- [ ]
+
+## 🔗 Valuable Resources
+
+-
+
+---
+
+## Self Assessment
+
+| Item | Rating (1-5) |
+|------|--------------|
+| Time Investment | ⭐⭐⭐ |
+| Understanding Depth | ⭐⭐⭐ |
+| Code Practice | ⭐⭐⭐ |

@@ -1,26 +1,26 @@
-# 安全漏洞笔记
+# Security Vulnerability Notes
 
-记录学习过程中遇到的漏洞类型和案例。
+Recording vulnerability types and cases encountered during learning.
 
-## 漏洞分类
+## Vulnerability Classification
 
-### 高危 (High)
+### High Severity
 - [ ] [Reentrancy](./reentrancy.md)
 - [ ] [Access Control](./access-control.md)
 - [ ] [Oracle Manipulation](./oracle-manipulation.md)
 
-### 中危 (Medium)
+### Medium Severity
 - [ ] [Front-running](./front-running.md)
 - [ ] [Signature Replay](./signature-replay.md)
 
-### 低危 (Low)
+### Low Severity
 - [ ] [Gas Optimization](./gas-optimization.md)
 
-## 模板
+## Template
 
-每个漏洞笔记应包含：
-1. 漏洞原理
-2. 代码示例
-3. 真实案例
-4. 如何检测
-5. 如何修复
+Each vulnerability note should include:
+1. Vulnerability principle
+2. Code example
+3. Real-world case
+4. How to detect
+5. How to fix

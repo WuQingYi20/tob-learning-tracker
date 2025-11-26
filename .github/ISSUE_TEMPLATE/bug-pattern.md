@@ -1,45 +1,45 @@
 ---
 name: 🐛 Bug Pattern
-about: 记录学到的漏洞模式
-title: '[漏洞类型] - 简短描述'
+about: Record learned vulnerability patterns
+title: '[Vulnerability Type] - Brief Description'
 labels: bug-pattern
 assignees: ''
 ---
 
-## 漏洞类型
-<!-- 如: Reentrancy, Access Control, Oracle Manipulation -->
+## Vulnerability Type
+<!-- e.g.: Reentrancy, Access Control, Oracle Manipulation -->
 
 
-## 严重程度
+## Severity
 <!-- High / Medium / Low -->
 
 
-## 概述
-<!-- 一句话描述这个漏洞 -->
+## Overview
+<!-- One sentence description of this vulnerability -->
 
 
-## 漏洞代码示例
-
-```solidity
-// 有问题的代码
-```
-
-## 攻击方式
-
-
-## 修复方法
+## Vulnerable Code Example
 
 ```solidity
-// 修复后的代码
+// Problematic code
 ```
 
-## 如何检测
-<!-- 手动检查的关键点 / Slither detector / 其他工具 -->
+## Attack Method
 
 
-## 真实案例
-<!-- 链接到审计报告或黑客事件 -->
+## Fix Method
+
+```solidity
+// Fixed code
+```
+
+## How to Detect
+<!-- Key points for manual review / Slither detector / Other tools -->
 
 
-## 相关资源
-- 
+## Real-world Cases
+<!-- Link to audit reports or hack incidents -->
+
+
+## Related Resources
+-

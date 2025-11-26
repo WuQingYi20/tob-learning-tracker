@@ -1,9 +1,9 @@
-# CTF 解题记录
+# CTF Solution Records
 
 ## Ethernaut
 
-| # | 名称 | 状态 | 难度 | 笔记 |
-|---|------|------|------|------|
+| # | Name | Status | Difficulty | Notes |
+|---|------|--------|------------|-------|
 | 0 | Hello Ethernaut | ⏳ | ⭐ | |
 | 1 | Fallback | ⏳ | ⭐ | |
 | 2 | Fallout | ⏳ | ⭐ | |
@@ -19,8 +19,8 @@
 
 ## Damn Vulnerable DeFi
 
-| # | 名称 | 状态 | 关键漏洞 | 笔记 |
-|---|------|------|----------|------|
+| # | Name | Status | Key Vulnerability | Notes |
+|---|------|--------|-------------------|-------|
 | 1 | Unstoppable | ⏳ | | |
 | 2 | Naive Receiver | ⏳ | | |
 | 3 | Truster | ⏳ | | |
@@ -30,35 +30,35 @@
 
 ---
 
-## 解题模板
+## Solution Template
 
-每道题创建一个文件夹：
+Create a folder for each challenge:
 
 ```
 ethernaut/
 └── 01-fallback/
-    ├── README.md      # 题目分析 + 思路
-    ├── Solution.sol   # 解题合约（如需要）
-    └── exploit.js     # 攻击脚本
+    ├── README.md      # Challenge analysis + approach
+    ├── Solution.sol   # Solution contract (if needed)
+    └── exploit.js     # Attack script
 ```
 
-### README.md 模板
+### README.md Template
 
 ```markdown
 # Ethernaut - Level X: [Name]
 
-## 题目要求
+## Challenge Requirements
 ...
 
-## 分析
+## Analysis
 ...
 
-## 漏洞
+## Vulnerability
 ...
 
-## 解法
+## Solution
 ...
 
-## 学到了什么
+## What I Learned
 ...
 ```

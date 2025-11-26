@@ -1,39 +1,39 @@
-# 工具笔记
+# Tools Notes
 
-记录 ToB 工具链的学习笔记和常用命令。
+Recording learning notes and common commands for ToB toolchain.
 
 ## Slither
 
-### 安装
+### Installation
 ```bash
 pip install slither-analyzer
 ```
 
-### 常用命令
+### Common Commands
 ```bash
-# 基本扫描
+# Basic scan
 slither .
 
-# 指定 detector
+# Specify detector
 slither . --detect reentrancy-eth
 
-# 输出 JSON
+# Output JSON
 slither . --json output.json
 
-# 排除误报
+# Exclude false positives
 slither . --triage-mode
 ```
 
-### 笔记
-- [Slither 基础](./slither-basics.md)
-- [编写 Detector](./slither-detector.md)
-- [SlithIR 理解](./slithir.md)
+### Notes
+- [Slither Basics](./slither-basics.md)
+- [Writing Detectors](./slither-detector.md)
+- [Understanding SlithIR](./slithir.md)
 
 ---
 
 ## Echidna
 
-### 安装
+### Installation
 ```bash
 # macOS
 brew install echidna
@@ -42,36 +42,36 @@ brew install echidna
 docker pull trailofbits/echidna
 ```
 
-### 常用命令
+### Common Commands
 ```bash
-# 基本运行
+# Basic run
 echidna . --contract TestContract
 
-# 指定配置
+# Specify config
 echidna . --config echidna.yaml
 ```
 
-### 笔记
-- [Echidna 基础](./echidna-basics.md)
-- [编写 Invariants](./echidna-invariants.md)
+### Notes
+- [Echidna Basics](./echidna-basics.md)
+- [Writing Invariants](./echidna-invariants.md)
 
 ---
 
 ## Foundry
 
-### 常用命令
+### Common Commands
 ```bash
-# 编译
+# Build
 forge build
 
-# 测试
+# Test
 forge test
-forge test -vvvv  # 详细输出
-forge test --match-test testXxx  # 指定测试
+forge test -vvvv  # Verbose output
+forge test --match-test testXxx  # Specific test
 
-# 部署
+# Deploy
 forge create
 
-# Gas 报告
+# Gas report
 forge test --gas-report
 ```

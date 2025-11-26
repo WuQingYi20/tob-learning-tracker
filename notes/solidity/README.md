@@ -1,11 +1,11 @@
-# Solidity 学习笔记
+# Solidity Learning Notes
 
-在这里记录 Solidity 相关的学习笔记。
+Record Solidity-related learning notes here.
 
-## 目录
+## Table of Contents
 
-- [基础语法](./basics.md)
-- [数据类型](./data-types.md)
-- [函数](./functions.md)
-- [继承](./inheritance.md)
-- [常见模式](./patterns.md)
+- [Basic Syntax](./basics.md)
+- [Data Types](./data-types.md)
+- [Functions](./functions.md)
+- [Inheritance](./inheritance.md)
+- [Common Patterns](./patterns.md)

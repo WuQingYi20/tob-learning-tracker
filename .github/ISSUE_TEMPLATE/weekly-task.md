@@ -1,29 +1,29 @@
 ---
 name: 📅 Weekly Task
-about: 每周学习任务追踪
-title: 'Week XX: [Phase X] - [主题]'
+about: Weekly learning task tracking
+title: 'Week XX: [Phase X] - [Topic]'
 labels: ''
 assignees: ''
 ---
 
-## 🎯 本周目标
+## 🎯 This Week's Goal
 
 
-## 📋 任务清单
+## 📋 Task Checklist
 
-### 学习
-- [ ] 
+### Learning
+- [ ]
 
-### 实践
-- [ ] 
+### Practice
+- [ ]
 
-### 阅读
-- [ ] 
+### Reading
+- [ ]
 
-## ⏱️ 预计时间
-- 工作日：X 小时/天
-- 周末：X 小时/天
-- 总计：约 XX 小时
+## ⏱️ Estimated Time
+- Weekdays: X hours/day
+- Weekends: X hours/day
+- Total: About XX hours
 
-## 📝 备注
+## 📝 Notes
 
